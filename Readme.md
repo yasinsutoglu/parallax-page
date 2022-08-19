@@ -5,12 +5,12 @@
 <hr>
 
 ## ✨ Demo
-<!-- 
- <p align="center">
-  <img width="700" align="center" src="http://g.recordit.co/P4F0zpRieM.gif" alt="demo"/>   
-</p> -->
 
-![Alt text](https://giphy.com/peekasso) 
+ <p align="center">
+  <img width="700" align="center" src="https://giphy.com/peekasso" alt="demo"/>   
+</p>
+
+<!-- ![Alt text](https://giphy.com/peekasso)  -->
 
 <hr>
 
